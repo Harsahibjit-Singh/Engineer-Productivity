@@ -32,8 +32,10 @@
 
 ## 📱 Screenshots
 
-![Screen](productivity/lib/assets/Engineer_Productivity_1.jpg)
-![Screen Scrolled](productivity/lib/assets/Engineer_Productivity_2.jpg)
+
+<img src="productivity/lib/assets/Engineer_Productivity_1.jpg" alt="Home Screen" width="300"/>
+<br/>
+<img src="productivity/lib/assets/Engineer_Productivity_2.jpg" alt="Home Screen Scrolled" width="300"/>
 
 ---
 
