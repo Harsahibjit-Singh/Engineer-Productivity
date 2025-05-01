@@ -32,8 +32,8 @@
 
 ## 📱 Screenshots
 
-![Screen](assets/Engineer_Productivity_1.jpg)
-![Screen Scrolled](assets/Engineer_Productivity_1.jpg)
+![Screen](productivity/lib/assets/Engineer_Productivity_1.jpg)
+![Screen Scrolled](productivity/lib/assets/Engineer_Productivity_2.jpg)
 
 ---
 
